@@ -10,6 +10,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>opencv-utils</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>opencv</groupId>
+            <artifactId>opencv</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+    </dependencies>
 
 
 </project>

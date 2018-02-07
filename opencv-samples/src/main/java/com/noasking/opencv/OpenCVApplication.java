@@ -1,4 +1,4 @@
-package com.noasking.opencv.sample;
+package com.noasking.opencv;
 
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
